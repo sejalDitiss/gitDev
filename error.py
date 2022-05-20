@@ -1,1 +1,1 @@
-print Hi
+echo Hi : ""
